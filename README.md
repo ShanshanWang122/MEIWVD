@@ -27,7 +27,8 @@ Data collection occurred over six months (November 2023 to April 2024). Preproce
 
 4. Dataset Access
    
-The MEIWVD dataset is publicly available for download at:https://pan.baidu.com/s/1qG963NYsQdqeKR47fcpqTg?pwd=xjvx
+The MEIWVD dataset is publicly available for download at: https://pan.baidu.com/s/1DFJaE-TwHZdnIJlIvj3n5w?pwd=xjvx
+
 
 Note: Due to maritime regulatory constraints, only a subset of the data and annotations is publicly available. Researchers are encouraged to use this resource to advance studies in water surface object detection.
 
